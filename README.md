@@ -59,4 +59,4 @@ The queue is implemented manually using **templates and nodes**, not STL.
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Queue-based-Ticketing-System.git
+   git clone https://github.com/mahmoudelsalmy/Queue-based-Ticketing-System.git
