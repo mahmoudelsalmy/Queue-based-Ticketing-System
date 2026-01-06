@@ -60,6 +60,3 @@ The queue is implemented manually using **templates and nodes**, not STL.
 1. Clone the repository:
    ```bash
    git clone https://github.com/mahmoudelsalmy/Queue-based-Ticketing-System.git
-
-## 📦 Download
-You can download the Windows executable from the Releases section.
