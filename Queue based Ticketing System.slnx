@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Queue based Ticketing System/Queue based Ticketing System.vcxproj" Id="154bf72c-89a4-46a9-9b97-5fdee0bf668a" />
+</Solution>
